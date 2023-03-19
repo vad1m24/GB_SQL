@@ -1,4 +1,4 @@
-# GB_SQL
+# GB_SQL_task1
 ![1](https://user-images.githubusercontent.com/88346237/226205935-7b134ba5-a8c2-458f-b3f9-46772bb4c20e.png)
 ![2](https://user-images.githubusercontent.com/88346237/226205947-9b40f40d-2e73-49ad-a262-fc0043c7737b.png)
 ![3](https://user-images.githubusercontent.com/88346237/226205951-42d615ca-b608-4a2c-b40f-920c107deca9.png)
